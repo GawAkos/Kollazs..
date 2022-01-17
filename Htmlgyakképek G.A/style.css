@@ -1,0 +1,22 @@
+img{
+    width: 400px;
+    transition: 1s;
+    margin: 30px;
+}
+img:hover{width: 500px;
+margin: 0;
+}
+h1{
+    text-align: center;
+}
+h2{text-align: center;}
+
+.content{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.kepek{float: left;
+width: 400px;
+}
